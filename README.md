@@ -8,3 +8,8 @@ Table of Content
 4. Parse JSON in Swift4
 5. AutoLayout (using wC hR)
 6. Fabric - build test app + connect crashlitics
+7. ARKit and SceneKit
+8. CoreData
+9. UNIT-testing
+10. Localization strings
+11. Core Graphics
