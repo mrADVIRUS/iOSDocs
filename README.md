@@ -10,10 +10,20 @@ Table of Content
 6. Synchronous vs Asynchronous threads
 7. Make simple animation with lottie (https://github.com/airbnb/lottie-ios#installing-lottie)
 8. Work with SafariViewController
-
+9. CoreData (CRUD)
+10. CoreData (managing migration)
+11. Localization strings (for text + storyboards)
+12. Core Graphics
+13. Core Animation
+14. Core Motion
+15. ARKit and SceneKit
+16. UIWebView & WKWebView. What the difference + example.
+17. MapKit + custom annotation
+18. Work with URL Schemes
 
 # SoftSkills
 1. Fabric - build test app + connect crashlitics
 2. Fastlane
 3. Firebase
-4. 
+4. UNIT-testing
+5. AWS
