@@ -20,6 +20,8 @@ Table of Content
 16. UIWebView & WKWebView. What the difference + example.
 17. MapKit + custom annotation
 18. Work with URL Schemes
+19. Access Control (public, internal, fileprivate, private)
+20. Custom transition (UIViewControllerTransitioningDelegate + UIViewControllerAnimatedTransitioning)
 
 # SoftSkills
 1. Fabric - build test app + connect crashlitics
