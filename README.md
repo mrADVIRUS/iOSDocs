@@ -30,4 +30,5 @@ Table of Content
 4. UNIT-testing
 5. AWS
 6. XCode Debugging
-
+7. XCode Server
+8. Git
