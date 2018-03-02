@@ -33,3 +33,7 @@ Table of Content
 7. XCode Server
 8. Git
 9. MacOS terminal commands (most frequency)
+
+
+# Helpful Libs
+1. https://github.com/devxoul/UITextView-Placeholder
